@@ -1,3 +1,5 @@
+#Avee Chakraborty,151-35-924,department of software engineering,DIU.
+
 import smtplib
 
 #for establishing a connection , parameters are domain name and port
